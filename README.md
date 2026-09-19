@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="chetanwalkoli's GitHub profile" src="dark_mode.svg" />
-</picture>
-
 <h1 align="center">Hi 👋, I'm Chetan Walkoli</h1>
 
 <h3 align="center">
@@ -15,6 +9,13 @@
 </p>
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="chetanwalkoli's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 
 ## 🚀 About Me
 
